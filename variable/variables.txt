@@ -1,0 +1,30 @@
+// variable declaration //
+--------------------------
+var age int
+var city string
+var isStudent bool
+---
+var age int 23
+var city string "Dhaka"
+var isStudent bool true
+
+// variable type Inference(a conclusion reached on the basis of evidence and reasoning) //
+------------------------------------------------------------------------------------------
+age := 23
+city := "Dhaka"
+isStudent := true
+temperature := 25.6
+
+
+// Multiple Variable Declaration //
+var age, number, count int
+var (
+	name string
+	age int
+	isActive bool
+)
+--------------------------
+var x, y int = 10, 20
+firstName, lastName := "Abdallah", "Bin Saif"
+_________________________________________________
+
