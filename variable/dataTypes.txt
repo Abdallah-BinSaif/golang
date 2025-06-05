@@ -1,0 +1,5 @@
+1. Basic types(These represent single values)
+2. Composite types(These combine multiple values into a single structure.)
+3. Reference Types(These types store references to underlying data structures, meaning they don't hold the data directly but rather a pointer to where the data is stored in memory. When you pass these types around, you are passing the reference, not a copy of the data.)
+4. Type Aliases.
+5. Interface type.
